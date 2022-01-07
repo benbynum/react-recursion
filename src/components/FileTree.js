@@ -1,5 +1,5 @@
 import React, { Fragment, useContext } from 'react';
-import FileTreeStateContext from '../file-tree-state';
+import FileTreeStateContext from '../store/file-tree-state';
 import './FileTree.css';
 
 const FileTree = (props) => {

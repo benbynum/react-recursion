@@ -3,7 +3,7 @@ export default [
     name: 'My Documents',
     children: [
       {
-        name: 'Campaign',
+        name: 'Travel',
         children: [
           {
             name: 'cities.txt'
@@ -52,7 +52,7 @@ export default [
         ]
       },
       {
-        name: 'guidelines.txt'
+        name: 'notes.txt'
       },
       {
         name: 'invoice.pdf'

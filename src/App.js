@@ -1,9 +1,8 @@
 import { useState } from 'react';
 
-import './App.css';
-import files from './docs';
+import files from './data/docs';
 import FileTree from './components/FileTree';
-import { FileTreeStateContextProvider } from './file-tree-state';
+import { FileTreeStateContextProvider } from './store/file-tree-state';
 
 function App() {
   return (
